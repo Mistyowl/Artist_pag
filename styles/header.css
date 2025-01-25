@@ -41,7 +41,7 @@
 }
 
 .nav-link:hover {
-    color: var(--color-main-black);
+    color: var(--font-color);
 }
 
 .nav-link:hover::after {
